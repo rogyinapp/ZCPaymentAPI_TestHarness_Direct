@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ZCPaymentAPI_TestHarnessDirect</string>
+    <string name="app_title">ZC Payment</string>
+    <string name="app_details_title">Transaction Details</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_bind_server">Bind</string>
+    <string name="action_unbind_server">Unbind</string>
+    <string name="amount">Amount</string>
+    <string name="reference">Reference</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="process">Pay</string>
+    <string name="sigclear">Erase</string>
+    <string name="sigcolor">Color</string>
+    <string name="printscreen">Print</string>
+    <string name="clear">Clear</string>
+    <string name="details">Details</string>
+    <string name="zebracommerce_desc">ZebraCommerce Payment</string>
+    <string name="paystatus_accepted">Accepted</string>
+    <string name="paystatus_declined">Declined</string>
+    <string name="paystatus_processing">Processing&#8230;</string>
+    <string name="paystatus_ready">Ready for payment</string>
+    <string name="paystatus_init_in_progress">Initialization in progress&#8230;</string>
+    <string name="zc_settings_group">Payment Settings</string>
+    <string name="zc_mis_username">CreditCall MIS UserName</string>
+    <string name="zc_mis_username_summary">Enter MIS user name</string>
+    <string name="zc_mis_password">CreditCall MIS Password</string>
+    <string name="zc_mis_password_summary">Enter MIS password</string>
+    <string name="zc_pinpad">Miura Bluetooth Name</string>
+    <string name="zc_pinpad_summary">Enter BT friendly name</string>
+    <string name="zc_terminal_id">CreditCall Terminal ID</string>
+    <string name="zc_terminal_id_summary">Enter CreditCall issued terminal ID</string>
+    <string name="zc_transaction_key">CreditCall Transaction Key</string>
+    <string name="zc_transaction_key_summary">Enter CreditCall issued transaction key</string>
+    <string name="zc_password">CardEase DB Password</string>
+    <string name="zc_password_summary">Enter the password for the CardEase database</string>
+
+</resources>

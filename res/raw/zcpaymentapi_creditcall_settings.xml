@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    intendedService="com.zebracommerce.zcpaymentapi.zcpaymentapi_creditcallsvc.ZCPaymentAPI_CreditCallSvc"
+    version="1.0" >
+    
+	<Setting name="CreditCallMISUserName"
+	    friendlyName=""
+	    defaultValue=""
+	    value="laron@zebra.com" />
+    <Setting name="CreditCallMISPassword"
+        friendlyName=""
+        defaultValue=""
+        value="00StepOne" />
+	<Setting name="CreditCallPinPad"
+	    friendlyName=""
+	    defaultValue=""
+	    value="Miura 187" />
+	<Setting name="CreditCallTerminalId"
+	    friendlyName=""
+	    defaultValue=""
+	    value="99960804" />
+	<Setting name="CreditCallTransactionKey"
+	    friendlyName=""
+	    defaultValue=""
+	    value="5ETGUUuPV4Z87bgX" />
+	<Setting name="CreditCallPassword"
+	    friendlyName=""
+	    defaultValue=""
+	    value="00StepOne" />
+</Settings>

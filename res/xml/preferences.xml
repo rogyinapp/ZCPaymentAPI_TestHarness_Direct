@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory 
+    	android:title="@string/zc_settings_group"
+        android:key="zc_settings_group">
+    	<EditTextPreference 
+        	android:key="zc_mis_username"
+        	android:title="@string/zc_mis_username"
+        	android:summary="@string/zc_mis_username_summary"
+        	android:defaultValue="laron@zebra.com"/>
+    	<EditTextPreference 
+        	android:key="zc_mis_password"
+        	android:title="@string/zc_mis_password"
+        	android:summary="@string/zc_mis_password_summary"
+        	android:defaultValue="00AtHand"/>
+    	<EditTextPreference 
+        	android:key="zc_pinpad"
+        	android:title="@string/zc_pinpad"
+        	android:summary="@string/zc_pinpad_summary"
+        	android:defaultValue="MPOS-64003228"/>
+    	<EditTextPreference 
+        	android:key="zc_terminal_id"
+        	android:title="@string/zc_terminal_id"
+        	android:summary="@string/zc_terminal_id_summary"
+        	android:defaultValue="99960804"/>
+    	<EditTextPreference 
+        	android:key="zc_transaction_key"
+        	android:title="@string/zc_transaction_key"
+        	android:summary="@string/zc_transaction_key_summary"
+        	android:defaultValue="5ETGUUuPV4Z87bgX"/>
+    	<EditTextPreference 
+        	android:key="zc_password"
+        	android:title="@string/zc_password"
+        	android:summary="@string/zc_password_summary"
+        	android:defaultValue="00StepOne"/>
+    </PreferenceCategory>
+</PreferenceScreen>
